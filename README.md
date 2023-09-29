@@ -1,6 +1,6 @@
 # AkarisNeuronActivation
 
-## An ANIME maze game about a single neuron signal that wants to save her dying body in a coma by trying to activate various body parts. Quickly traverse through a nerve maze to get to the destination before the time runs out while avoiding activating bad cells. Play using QWAS or click a direction to move.
+An ANIME maze game about a single neuron signal that wants to save her dying body in a coma by trying to activate various body parts. Quickly traverse through a nerve maze to get to the destination before the time runs out while avoiding activating bad cells. Play using QWAS or click a direction to move.
 
 
 Credits: 
