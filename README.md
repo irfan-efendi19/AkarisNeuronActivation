@@ -4,10 +4,18 @@ An ANIME maze game about a single neuron signal that wants to save her dying bod
 
 
 Credits: 
+
 Aryazaky: Game Designer
+
 Irfan: 3D Artist
+
 Eka: 2D Artist
+
 Atqa: Programmer & Idea
+
+
+
+
 
 
 
